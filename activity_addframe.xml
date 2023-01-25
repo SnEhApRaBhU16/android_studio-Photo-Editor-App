@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/linear"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/image4"
+
+    tools:context=".Addframe">
+
+    <ja.burhanrashid52.photoeditor.PhotoEditorView
+        android:id="@+id/photoview1"
+        android:layout_width="317dp"
+        android:layout_marginTop="24dp"
+        android:layout_height="322dp"
+    android:layout_gravity="center"
+        app:layout_constraintDimensionRatio="16:9">
+
+    </ja.burhanrashid52.photoeditor.PhotoEditorView>
+
+    <Button
+        android:id="@+id/AddFrames"
+        android:layout_width="107dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/black"
+        android:layout_marginTop="30dp"
+        android:text="Frames"
+        android:textColor="@color/white"
+        />
+
+    <Button
+        android:id="@+id/AddSticker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="130dp"
+        android:layout_marginTop="-47dp"
+        android:backgroundTint="@color/black"
+        android:text="Stickers"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/RotateImg"
+        android:layout_width="114dp"
+        android:layout_height="45dp"
+        android:layout_marginHorizontal="270dp"
+        android:layout_marginTop="-47dp"
+        android:backgroundTint="@color/black"
+        android:text="Rotate"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/SaveImage"
+        android:layout_width="107dp"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="25dp"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="#03A9F4"
+        android:text="SAVE"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/AddFilterRed"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:layout_marginHorizontal="150dp"
+        android:layout_marginTop="-47dp"
+        android:backgroundTint="#F44336"
+        android:text="R"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/AddFilterGreen"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:layout_marginHorizontal="230dp"
+        android:layout_marginTop="-47dp"
+        android:backgroundTint="@color/teal_700"
+        android:text="G"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/AddFilterBlue"
+        android:layout_width="62dp"
+        android:layout_height="45dp"
+        android:layout_marginHorizontal="310dp"
+        android:layout_marginTop="-47dp"
+        android:backgroundTint="@color/purple_700"
+        android:text="B"
+        android:textColor="@color/white" />
+</LinearLayout>
+
