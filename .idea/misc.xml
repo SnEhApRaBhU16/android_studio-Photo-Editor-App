@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/PhotoEditorApp/app/src/main/res/layout/activity_addframe.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/PhotoEditorApp/app/src/main/res/layout/activity_frame_adapter.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/PhotoEditorApp/app/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/PhotoEditorApp/app/src/main/res/layout/activity_page2.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/PhotoEditorApp/app/src/main/res/layout/activity_sticker_adapter.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/PhotoEditorApp/app/src/main/res/layout/fragment_first.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/PhotoEditorApp/app/src/main/res/layout/fragment_frame.xml" value="0.17760416666666667" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/miniproj/app/src/main/res/layout/activity_addframe.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/miniproj/app/src/main/res/layout/activity_frame_adapter.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/miniproj/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
